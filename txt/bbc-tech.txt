@@ -1,0 +1,39 @@
+BBC News - Technology
+https://www.bbc.co.uk/news/
+
+  --
+  
+Braverman and Facebook clash over private message plans
+https://www.bbc.co.uk/news/technology-66854622?at_medium=RSS&at_campaign=KARANGA
+The government has launched a campaign criticising Meta for planned encryption of Facebook messages.
+Tue, 19 Sep 2023 23:16:22 GMT
+  --
+  Online Safety Bill: Crackdown on harmful social media content agreed
+https://www.bbc.co.uk/news/technology-66854618?at_medium=RSS&at_campaign=KARANGA
+The law aims to force firms to remove illegal content and protect children from some legal but harmful material.
+Tue, 19 Sep 2023 19:50:51 GMT
+  --
+  FTX: 'King of Crypto' parents sued over missing millions
+https://www.bbc.co.uk/news/business-66857146?at_medium=RSS&at_campaign=KARANGA
+Sam Bankman-Fried's parents are being sued as his bankrupt crypto firm FTX seeks to recover money.
+Tue, 19 Sep 2023 17:48:43 GMT
+  --
+  Mortal Kombat 1: Nintendo Switch version will be fixed, says boss
+https://www.bbc.co.uk/news/newsbeat-66842874?at_medium=RSS&at_campaign=KARANGA
+The fighting series' creator admits the Nintendo edition isn't "the version we wanted to release".
+Tue, 19 Sep 2023 16:09:11 GMT
+  --
+  YouTube suspends Russell Brand from advert income
+https://www.bbc.co.uk/news/entertainment-arts-66851698?at_medium=RSS&at_campaign=KARANGA
+The BBC has also removed some shows featuring the comedian and actor from its streaming services.
+Tue, 19 Sep 2023 11:45:45 GMT
+  --
+  Elon Musk: Social media platform X, formerly Twitter, could go behind paywall
+https://www.bbc.co.uk/news/technology-66850821?at_medium=RSS&at_campaign=KARANGA
+The billionaire suggested the social media platform, now called X, could charge for use of "the system".
+Tue, 19 Sep 2023 02:17:52 GMT
+  --
+  
+
+News items from BBC RSS feed, Technology edition,
+    http://feeds.bbci.co.uk/news/technology/rss.xml
