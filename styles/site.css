@@ -68,11 +68,12 @@ display: inline;
 
 }
 
-h6 {
+h4 {
   display: inline;
   color:black;
   font-style: oblique;
   padding-left: 25px;
+  font-size: small;
 }
 
 footer {
