@@ -70,7 +70,7 @@ display: inline;
 
 h6 {
   display: inline;
-  color:gray;
+  color:black;
   font-style: oblique;
   padding-left: 25px;
 }
@@ -81,7 +81,7 @@ footer {
   padding: 10px;
   text-align: center;
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  color: darkgray;
+  color: black;
   font-size: smaller;
 
 }
